@@ -11,3 +11,4 @@ Tenho buscado evolução constante por meio de cursos, projetos pessoais e estud
 # Projetos
 
 Analise de Dados do Clube Atlético Mineiro entre 2003 e 2024 no Campeonato Brasileiro: https://bit.ly/Galo_Analise
+Calculo IMC: https://bit.ly/CalculoIMCpy
